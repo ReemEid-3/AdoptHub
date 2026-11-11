@@ -1,0 +1,164 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="‫الصفحة-1‬" id="mB09Z0NoFgI20ph54dXD">
+    <mxGraphModel dx="3297" dy="2121" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ju7-RLcY9RHX3jRTcw6c-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="1260" width="610" x="180" y="-220" as="geometry" />
+        </mxCell>
+        <mxCell id="ju7-RLcY9RHX3jRTcw6c-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;br&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-family: monospace; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(27, 29, 30); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;AdoptHub System&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="230" x="375" y="-190" as="geometry" />
+        </mxCell>
+        <mxCell id="ju7-RLcY9RHX3jRTcw6c-23" edge="1" parent="1" source="ju7-RLcY9RHX3jRTcw6c-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" x="-0.0171" as="geometry">
+            <Array as="points">
+              <mxPoint x="117.5" y="-70" />
+              <mxPoint x="117.5" y="-160" />
+            </Array>
+            <mxPoint x="-90" y="-160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ju7-RLcY9RHX3jRTcw6c-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Update application status&lt;/font&gt;&lt;/code&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="80" width="280" x="345" y="-110" as="geometry" />
+        </mxCell>
+        <mxCell id="ju7-RLcY9RHX3jRTcw6c-27" edge="1" parent="1" source="ju7-RLcY9RHX3jRTcw6c-10" style="edgeStyle=orthogonalEdgeStyle;shape=wire;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;defaultLabelBackgroundColor=page;labelPadding=0 4;startArrow=none;startFill=0;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" x="-0.1717" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="40" />
+              <mxPoint x="100" y="-150" />
+              <mxPoint x="-100" y="-150" />
+            </Array>
+            <mxPoint x="-100" y="-150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ju7-RLcY9RHX3jRTcw6c-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Manage animal records&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="280" x="345" as="geometry" />
+        </mxCell>
+        <mxCell id="ju7-RLcY9RHX3jRTcw6c-26" edge="1" parent="1" source="ju7-RLcY9RHX3jRTcw6c-11" style="edgeStyle=orthogonalEdgeStyle;shape=wire;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;defaultLabelBackgroundColor=page;labelPadding=0 4;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" x="-0.0959" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="-60" />
+              <mxPoint x="80" y="-60" />
+              <mxPoint x="80" y="-140" />
+              <mxPoint x="-100" y="-140" />
+            </Array>
+            <mxPoint x="-100" y="-140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ju7-RLcY9RHX3jRTcw6c-33" edge="1" parent="1" source="ju7-RLcY9RHX3jRTcw6c-11" style="edgeStyle=orthogonalEdgeStyle;shape=wire;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;dashed=1;defaultLabelBackgroundColor=page;labelPadding=0 4;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" x="0.0282" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="178.3" />
+              <mxPoint x="320" y="240" />
+            </Array>
+            <mxPoint x="-170" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ju7-RLcY9RHX3jRTcw6c-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;Schedule meet-and-greet&lt;/code&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="80" width="280" x="340" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ju7-RLcY9RHX3jRTcw6c-29" edge="1" parent="1" source="ju7-RLcY9RHX3jRTcw6c-12" style="edgeStyle=orthogonalEdgeStyle;shape=wire;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;defaultLabelBackgroundColor=page;labelPadding=0 4;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" x="-0.1134" as="geometry">
+            <Array as="points">
+              <mxPoint x="10" y="260" />
+              <mxPoint x="10" y="-90" />
+            </Array>
+            <mxPoint x="-90" y="-90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ju7-RLcY9RHX3jRTcw6c-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;Review application and recorddecision&lt;/code&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="80" width="280" x="345" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="ju7-RLcY9RHX3jRTcw6c-30" edge="1" parent="1" source="ju7-RLcY9RHX3jRTcw6c-13" style="edgeStyle=orthogonalEdgeStyle;shape=wire;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;defaultLabelBackgroundColor=page;labelPadding=0 4;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" x="0.3731" as="geometry">
+            <Array as="points">
+              <mxPoint x="-90" y="370" />
+              <mxPoint x="-90" y="220" />
+            </Array>
+            <mxPoint x="-180" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ju7-RLcY9RHX3jRTcw6c-13" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;Browse and search animals&lt;/code&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="80" width="280" x="340" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="ju7-RLcY9RHX3jRTcw6c-28" edge="1" parent="1" source="ju7-RLcY9RHX3jRTcw6c-14" style="edgeStyle=orthogonalEdgeStyle;shape=wire;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;defaultLabelBackgroundColor=page;labelPadding=0 4;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" x="-0.1343" as="geometry">
+            <Array as="points">
+              <mxPoint x="40" y="470" />
+              <mxPoint x="40" y="-120" />
+              <mxPoint x="-90" y="-120" />
+            </Array>
+            <mxPoint x="-100" y="-120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ju7-RLcY9RHX3jRTcw6c-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;Log in&lt;/code&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="80" width="275" x="345" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="ju7-RLcY9RHX3jRTcw6c-35" edge="1" parent="1" source="ju7-RLcY9RHX3jRTcw6c-15" style="edgeStyle=orthogonalEdgeStyle;shape=wire;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;defaultLabelBackgroundColor=page;labelPadding=0 4;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-130" y="570" />
+              <mxPoint x="-130" y="300" />
+            </Array>
+            <mxPoint x="-180" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ju7-RLcY9RHX3jRTcw6c-15" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;Submit adoption application&lt;/code&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="80" width="280" x="340" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="ju7-RLcY9RHX3jRTcw6c-36" edge="1" parent="1" source="ju7-RLcY9RHX3jRTcw6c-16" style="edgeStyle=orthogonalEdgeStyle;shape=wire;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;defaultLabelBackgroundColor=page;labelPadding=0 4;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-110" y="680" />
+              <mxPoint x="-110" y="280" />
+            </Array>
+            <mxPoint x="-190" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ju7-RLcY9RHX3jRTcw6c-16" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;Track application status&lt;/code&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="80" width="280" x="340" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="ju7-RLcY9RHX3jRTcw6c-37" edge="1" parent="1" source="ju7-RLcY9RHX3jRTcw6c-17" style="edgeStyle=orthogonalEdgeStyle;shape=wire;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;defaultLabelBackgroundColor=page;labelPadding=0 4;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" x="-0.027" as="geometry">
+            <Array as="points">
+              <mxPoint x="-70" y="790" />
+              <mxPoint x="-70" y="200" />
+            </Array>
+            <mxPoint x="-180" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ju7-RLcY9RHX3jRTcw6c-17" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;View animal health profile&lt;/code&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="80" width="280" x="340" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="ju7-RLcY9RHX3jRTcw6c-18" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;Manage user accounts androles&lt;/code&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="80" width="280" x="340" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="ju7-RLcY9RHX3jRTcw6c-34" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;shape=wire;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;defaultLabelBackgroundColor=page;labelPadding=0 4;endArrow=none;endFill=0;" target="ju7-RLcY9RHX3jRTcw6c-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-180" y="270" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ju7-RLcY9RHX3jRTcw6c-39" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;shape=wire;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.003;entryY=0.652;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;defaultLabelBackgroundColor=page;labelPadding=0 4;endArrow=none;endFill=0;" target="ju7-RLcY9RHX3jRTcw6c-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-20" y="930" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ju7-RLcY9RHX3jRTcw6c-42" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelPerimeter=1;strokeColor=light-dark(#000000,#FFFFFF);fontColor=light-dark(#FFFFFF,#FFFFFF);" value="&lt;span style=&quot;background-color: light-dark(rgb(27, 29, 30), transparent);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;pre dir=&quot;ltr&quot; style=&quot;forced-color-adjust: none; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; box-shadow: none !important;&quot;&gt;&lt;code style=&quot;forced-color-adjust: none; box-shadow: none !important;&quot;&gt;&lt;font style=&quot;forced-color-adjust: none; font-size: 19px; background-color: light-dark(rgb(27, 29, 30), transparent); box-shadow: none !important;&quot;&gt;Shelter Staff&lt;/font&gt;&lt;/code&gt;&lt;/pre&gt;&lt;span style=&quot;background-color: light-dark(rgb(27, 29, 30), transparent);&quot;&gt;&lt;br&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="120" width="60" x="-170" y="-190" as="geometry" />
+        </mxCell>
+        <mxCell id="ju7-RLcY9RHX3jRTcw6c-44" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelPerimeter=1;" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;Adopter&lt;/font&gt;&lt;/code&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="120" width="60" x="-290" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="ju7-RLcY9RHX3jRTcw6c-47" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelPerimeter=1;" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;Administrator&lt;/font&gt;&lt;/code&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="120" width="60" x="-110" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="ju7-RLcY9RHX3jRTcw6c-51" edge="1" parent="1" source="ju7-RLcY9RHX3jRTcw6c-18" style="edgeStyle=orthogonalEdgeStyle;shape=wire;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;defaultLabelBackgroundColor=page;labelPadding=0 4;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-30" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
